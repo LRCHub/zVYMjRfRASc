@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "漂流教室",
+  "base_artist": "銀杏BOYZ",
+  "createdAt": "2026-03-27T13:23:46.029068Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "漂流教室",
+      "artist": "GING NANG BOYZ",
+      "has_synced": true,
+      "path": "select/01_漂流教室_GING_NANG_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "漂流教室",
+      "artist": "銀杏BOYZ",
+      "has_synced": true,
+      "path": "select/02_漂流教室_銀杏BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "漂流教室",
+      "artist": "銀杏BOYZ",
+      "has_synced": true,
+      "path": "select/03_漂流教室_銀杏BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "漂流教室",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/04_漂流教室_Omoinotake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "漂流教室",
+      "artist": "銀杏BOYZ",
+      "has_synced": false,
+      "path": "select/pl_01_漂流教室_銀杏BOYZ.txt"
+    }
+  ]
+}
